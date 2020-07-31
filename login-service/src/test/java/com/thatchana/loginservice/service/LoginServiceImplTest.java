@@ -4,6 +4,7 @@ import org.testng.annotations.Test;
 import org.testng.annotations.BeforeClass;
 
 public class LoginServiceImplTest {
+	
   @BeforeClass
   public void beforeClass() {
   }

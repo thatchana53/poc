@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<suite name="Login Service Test Suite">
+   <test name="Login Controller">
+    <classes>
+      <class name="com.thatchana.loginservice.controller.LoginControllerTest" />
+    </classes>
+    <classes>
+      <class name="com.thatchana.loginservice.service.LoginServiceImplTest" />
+    </classes>
+    <classes>
+      <class name="com.thatchana.loginservice.dao.LoginDaoImplTest" />
+    </classes>
+  </test>    
+</suite>
